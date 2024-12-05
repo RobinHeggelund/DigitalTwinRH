@@ -298,33 +298,5 @@ PrefabInstance:
     - {fileID: -2931678903207761081, guid: 85e102d1bbdb5a2458f589adbfb93a94, type: 3}
     - {fileID: -5468688401173595733, guid: 85e102d1bbdb5a2458f589adbfb93a94, type: 3}
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 85e102d1bbdb5a2458f589adbfb93a94,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 6091799869426391451}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85e102d1bbdb5a2458f589adbfb93a94, type: 3}
---- !u!1 &105937458459150096 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 85e102d1bbdb5a2458f589adbfb93a94,
-    type: 3}
-  m_PrefabInstance: {fileID: 988879177015933505}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &6091799869426391451
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 105937458459150096}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7cde0e92e12ed604ea4172ca104a8a5f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  busFreqDisplay: {fileID: 0}
-  busVoltageDisplay: {fileID: 0}
-  cosPhiDisplay: {fileID: 0}
-  currentDisplay: {fileID: 0}
-  freqLoadDisplay: {fileID: 0}
-  genFreqDisplay: {fileID: 0}
